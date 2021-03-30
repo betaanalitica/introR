@@ -1,4 +1,4 @@
-## R - Estruturas de controle - ifelse 
+# R - Estruturas de controle - ifelse 
 
 # A função ifelse(): Os comandos if() e if() else não são vetorizados, ou seja eles avaliam somente 
 # um valor por vez. Ou seja para um vetor com n elementos o comado if tem que ser executado n vezes, 
